@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kunalweb/static/css/main.18d6f3b9.chunk.css",
+    "main.js": "/kunalweb/static/js/main.cb0f73bb.chunk.js",
+    "main.js.map": "/kunalweb/static/js/main.cb0f73bb.chunk.js.map",
+    "runtime-main.js": "/kunalweb/static/js/runtime-main.b1ae075b.js",
+    "runtime-main.js.map": "/kunalweb/static/js/runtime-main.b1ae075b.js.map",
+    "static/js/2.43b46c33.chunk.js": "/kunalweb/static/js/2.43b46c33.chunk.js",
+    "static/js/2.43b46c33.chunk.js.map": "/kunalweb/static/js/2.43b46c33.chunk.js.map",
+    "static/js/3.94bce8f7.chunk.js": "/kunalweb/static/js/3.94bce8f7.chunk.js",
+    "static/js/3.94bce8f7.chunk.js.map": "/kunalweb/static/js/3.94bce8f7.chunk.js.map",
+    "index.html": "/kunalweb/index.html",
+    "static/css/main.18d6f3b9.chunk.css.map": "/kunalweb/static/css/main.18d6f3b9.chunk.css.map",
+    "static/js/2.43b46c33.chunk.js.LICENSE.txt": "/kunalweb/static/js/2.43b46c33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1ae075b.js",
+    "static/js/2.43b46c33.chunk.js",
+    "static/css/main.18d6f3b9.chunk.css",
+    "static/js/main.cb0f73bb.chunk.js"
+  ]
+}
